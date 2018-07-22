@@ -12,6 +12,10 @@ Version: 0.2-Features
 5. Custom Entity Inspector to make Entity creation easier
 6. Nested Entities
 
+Upgrade Instructions:
+
+In the version with the glTF support, In order to line up the glTF models with the primitive shapes, the position code is completely differen't than the first version of the plugin. Use the update on a new project, unless you know what you are doing.
+
 
 [Download Version: 0.1](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.1.unitypackage?raw=true)
 
