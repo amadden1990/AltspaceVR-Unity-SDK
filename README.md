@@ -1,6 +1,8 @@
 # AltspaceVR-Unity-SDK
 AltspaceVR editor plugin for Unity
 
+[Download Version: 0.3](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.3.unitypackage?raw=true)
+
 Version: 0.3 - New Features Added!
 
 1. Colliders - 3 new colliders were added
