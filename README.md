@@ -1,6 +1,15 @@
 # AltspaceVR-Unity-SDK
 AltspaceVR editor plugin for Unity
 
+[Download Version: 0.3.1](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.3.1.unitypackage?raw=true)
+
+Version: 0.3.1 - Bug fixes
+
+In this version I fixed the inverted rotations of the x and z axis on primitive shapes.
+
+_________________________________________________________________________________________________________________________
+
+
 [Download Version: 0.3](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.3.unitypackage?raw=true)
 
 Version: 0.3 - New Features Added!
@@ -22,7 +31,7 @@ Version: 0.3 - New Features Added!
     b. Visibility
 
 
-
+_________________________________________________________________________________________________________________________
 
 [Download Version: 0.2](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.2.unitypackage?raw=true)
 
@@ -38,6 +47,9 @@ Version: 0.2 - New Features Added!
 Upgrade Instructions:
 
 In the version with the glTF support, In order to line up the glTF models with the primitive shapes, the position code is completely differen't than the first version of the plugin. Use the update on a new project, unless you know what you are doing.
+
+
+_________________________________________________________________________________________________________________________
 
 
 [Download Version: 0.1](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.1.unitypackage?raw=true)
