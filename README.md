@@ -1,6 +1,51 @@
 # AltspaceVR-Unity-SDK
 AltspaceVR editor plugin for Unity
 
+[Download Version: 0.4](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.4.unitypackage?raw=true)
+
+
+Version: 0.4 - New Features Added!
+
+AltspaceVR Native Resources!!!!!!!
+All Altspace's Effects, Interactables, & Objects are now available in Unity!
+
+Explosion
+
+Fire
+
+Fire Trail
+
+Fireworks
+
+Smoke
+
+Sparkler
+
+Steam
+
+Basketball
+
+Bowlingball
+
+Bowling pin
+
+Box
+
+Coin
+
+Gem
+
+Ring
+
+Soccerball
+
+Basketball hoop
+
+Target Archery
+
+_________________________________________________________________________________________________________________________
+
+
 [Download Version: 0.3.1](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.3.1.unitypackage?raw=true)
 
 Version: 0.3.1 - Bug fixes
