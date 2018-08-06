@@ -1,6 +1,29 @@
 # AltspaceVR-Unity-SDK
 AltspaceVR editor plugin for Unity
 
+
+
+
+<!--Version: 0.5 - New Features Added!
+
+1.  Added javascript support. You can now create a script that will be compiled into your project during the build.
+2.  Added a tutorial panel that contains documentation and videos to help you get started with the editor. There is even documentation on how to submit your code to github pages and into AltspaceVR.
+3.  Added sync support to help you sync your scene.
+4.  Added Altspace's "Instantiator" so creator can instantiate custom objects and attach them to their avatar.
+5.  Added invisiable colliders.
+
+
+Bug Fixes:
+
+1.  Removed the background skin on the editor to compensate for the free Unity users.
+2.  Fixed the colliders orientation for box colliders.
+3.  Fixed the type with the interactables.
+-->
+
+
+
+
+
 [Download Version: 0.4](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.4.unitypackage?raw=true)
 
 
