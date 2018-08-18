@@ -23,7 +23,7 @@ Bug Fixes:
 
 1.  Removed the background skin on the editor to compensate for the free Unity users.
 2.  Fixed the colliders orientation for box colliders.
-3.  Fixed the type with the interactables.
+3.  Fixed a typo with the interactables.
 
 
 
