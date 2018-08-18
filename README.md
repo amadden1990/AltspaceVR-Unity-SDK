@@ -13,9 +13,10 @@ Version: 0.5 - New Features Added!
 
 1.  Added javascript support. You can now register aframe components using three.js
 2.  Added documentation to help you get started with the editor.
-3.  Added sync support to help you sync your scene.
-4.  Added Altspace's "Instantiator" so creator can instantiate custom objects and attach them to their avatar.
-5.  Added invisiable colliders.
+3.  Added a sample scene "Bowling Alley" for you to rip apart and study.
+4.  Added sync support to help you sync your scene.
+5.  Added Altspace's "Instantiator" so creator can instantiate custom objects and attach them to their avatar.
+6.  Added invisiable colliders.
 
 
 Bug Fixes:
