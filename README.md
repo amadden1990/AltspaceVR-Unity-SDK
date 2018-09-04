@@ -3,6 +3,9 @@ AltspaceVR editor plugin for Unity
 
 My Patreon: https://www.patreon.com/amadden
 
+For a AltspaceVR SDK free version for pure Aframe/Three.js development [CLICK HERE!](https://github.com/amadden1990/Aframe-ThreeJS-Unity3D-Exporter/tree/master)
+
+
 [Download Plugin Version: 0.5](https://github.com/amadden1990/AltspaceVR-Unity-SDK/blob/master/AltspaceVR_0.5.unitypackage?raw=true)
 
 [Download Documentation PDF Version 0.5](https://github.com/amadden1990/AltspaceVR-Unity-SDK/raw/master/AltspaceVR%20plugin%20for%20Unity3D.pdf)
